@@ -9,7 +9,7 @@ How to install:
 Part of my apache virtualhost for example:
 
 ```
-  ProxyPreserveHost On
+  	ProxyPreserveHost On
 	RewriteEngine On
 	RewriteCond %{HTTP:Upgrade} =websocket [NC]
 	RewriteRule /(.*) ws://127.0.0.1:9503 [P,L]
