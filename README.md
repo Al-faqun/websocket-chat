@@ -16,7 +16,7 @@ Part of my apache virtualhost for example:
 
 ![example of chat.html window](https://i.imgur.com/C0PnYsh.png)
 
-Reference
+Reference:
 
 https://www.swoole.co.uk/docs/
 
