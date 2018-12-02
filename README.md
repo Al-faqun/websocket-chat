@@ -1,5 +1,5 @@
 # websocket-chat
-This is a websockets chat example on php and js. It's made for training purposes, it's not production-ready, nor will it ever be. And it's architecture leaves much to be desired. It shows how awesome thing is [websockets protocol](https://developer.mozilla.org/ru/docs/WebSockets)... even on php!
+This is a websockets chat example on php and js. It's made for training purposes, it's not production-ready, nor will it ever be. And it's architecture leaves much to be desired. It shows what awesome thing is [websockets protocol](https://developer.mozilla.org/ru/docs/WebSockets)... even on php!
 
 How to install:
 1. Swoole installs as php extension, see the link: https://www.swoole.co.uk/docs/get-started/installation
